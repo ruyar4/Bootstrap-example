@@ -1,0 +1,39 @@
+header{
+	.container{
+		position: absolute;
+	}
+}
+
+body{
+	background-image: url("background.jpg");
+}
+
+h1{
+	text-shadow: 2px 2px 8px white;
+}
+
+footer{
+	background-color: #58ACFA;
+	color: white;
+	bottom: 0px;
+}
+
+footer h1{
+	color: white;
+}
+
+footer p{
+	margin-bottom: 0px;
+}
+
+.navbar{
+	margin-bottom: 0px;
+}
+
+.container.center{
+	padding-top: 30px;
+}
+
+.panel-heading{
+	padding: 0px;
+}
